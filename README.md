@@ -175,9 +175,6 @@ Este é o evento-chave do teste: `usuarioteste` — que **não tinha permissão 
 <img width="1886" height="818" alt="Captura de tela 2026-07-21 134237" src="https://github.com/user-attachments/assets/59bec680-2f83-449f-8834-207db6f53aaa" />
 
 ---
->
+
 > Esse teste reforçou pra mim o valor de correlacionar múltiplas fontes de telemetria (FIM + logs de autenticação) em vez de olhar para um único alerta isoladamente — é assim que se reconstrói a história completa de um incidente.
->
-> Documentação completa (comandos, JSON dos eventos e análise) no repositório: [link do GitHub]
->
-> #cybersecurity #soc #siem #wazuh #blueteam #homelab #infosec #mitreattack #privilegeescalation
+
